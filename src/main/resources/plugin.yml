@@ -1,0 +1,4 @@
+name: Damage
+version: '${project.version}'
+main: damage.damage.Damage
+api-version: 1.18
